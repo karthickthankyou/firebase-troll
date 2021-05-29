@@ -1,0 +1,21 @@
+{
+  "name": "nigerian-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "firebase": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "data-store": "^4.0.3",
+    "enquirer": "^2.3.6",
+    "inquirer": "^8.1.0"
+  }
+}
