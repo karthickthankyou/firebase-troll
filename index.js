@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const { Select, Toggle } = require('enquirer');
 const chalk = require('chalk');
 const { randomNumber, dialog } = require('./util.js');
