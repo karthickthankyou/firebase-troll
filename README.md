@@ -1,6 +1,6 @@
 # firebase-troll
 
-This project is a simple node cli tool mimicing the scammers.
+This project is a simple node cli tool mimicking the scammers.
 
 ```
 npm i
